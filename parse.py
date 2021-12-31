@@ -33,11 +33,6 @@ for (n,tr) in enumerate(trs):
             row.append(0)
     rows.append(row[1:])
 
-#f = open('out.csv', 'w', newline='')
-#writer = csv.writer(f)
-#writer.writerows(rows)
-#f.close()
-
 
 jsonf = ".env/car-site-scraping-96e1530b4d88.json"
 spread_sheet_key = "1pZJ0kHeguSslRHPkDkW8PtzEoXNu333Iaz6uslDzT48"
