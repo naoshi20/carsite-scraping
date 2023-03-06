@@ -15,7 +15,7 @@ cars = [{"url":"https://www.goo-net.com/market/HONDA/10201043/","type_":"S660","
 
 #jsonf = "/.env/car-site-scraper" #production
 jsonf = "./.env/car-site-scraping-96e1530b4d88.json" #local
-spread_sheet_key = "1pZJ0kHeguSslRHPkDkW8PtzEoXNu333Iaz6uslDzT48"
+spread_sheet_key = "***"
 scope = ['https://spreadsheets.google.com/feeds','https://www.googleapis.com/auth/drive']
 
 for j in range(len(cars)):
